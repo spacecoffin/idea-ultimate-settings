@@ -1,0 +1,708 @@
+<application>
+  <component name="ProjectJdkTable">
+    <jdk version="2">
+      <name value="Python 3.6.0 virtualenv at ~/.virtualenvs/bluesteel" />
+      <type value="Python SDK" />
+      <version value="Python 3.6.0" />
+      <homePath value="$USER_HOME$/.virtualenvs/bluesteel/bin/python" />
+      <roots>
+        <annotationsPath>
+          <root type="composite" />
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/bluesteel/lib/python3.6" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/bluesteel/lib/python3.6/lib-dynload" />
+            <root type="simple" url="file:///usr/local/Cellar/python3/3.6.0/Frameworks/Python.framework/Versions/3.6/lib/python3.6" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/bluesteel/lib/python3.6/site-packages" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/IntelliJIdea2017.2/python_stubs/-221451910" />
+            <root type="simple" url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
+            <root type="simple" url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3.6" />
+            <root type="simple" url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3.5" />
+            <root type="simple" url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3.4" />
+            <root type="simple" url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3.3" />
+            <root type="simple" url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3" />
+            <root type="simple" url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" />
+            <root type="simple" url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/3" />
+            <root type="simple" url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 2.7.13 virtualenv at ~/.virtualenvs/bidopt_timing" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.13" />
+      <homePath value="$USER_HOME$/.virtualenvs/bidopt_timing/bin/python" />
+      <roots>
+        <annotationsPath>
+          <root type="composite" />
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/bidopt_timing/lib/python2.7" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/bidopt_timing/lib/python2.7/lib-dynload" />
+            <root type="simple" url="file:///usr/local/Cellar/python/2.7.13/Frameworks/Python.framework/Versions/2.7/lib/python2.7" />
+            <root type="simple" url="file:///usr/local/Cellar/python/2.7.13/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-darwin" />
+            <root type="simple" url="file:///usr/local/Cellar/python/2.7.13/Frameworks/Python.framework/Versions/2.7/lib/python2.7/lib-tk" />
+            <root type="simple" url="file:///usr/local/Cellar/python/2.7.13/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac" />
+            <root type="simple" url="file:///usr/local/Cellar/python/2.7.13/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac/lib-scriptpackages" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/bidopt_timing/lib/python2.7/site-packages" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/IntelliJIdea2016.3/python_stubs/-1997454888" />
+            <root type="simple" url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 2.7.13 virtualenv at ~/.virtualenvs/timing_test" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.13" />
+      <homePath value="$USER_HOME$/.virtualenvs/timing_test/bin/python" />
+      <roots>
+        <annotationsPath>
+          <root type="composite" />
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/timing_test/lib/python2.7" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/timing_test/lib/python2.7/lib-dynload" />
+            <root type="simple" url="file:///usr/local/Cellar/python/2.7.13/Frameworks/Python.framework/Versions/2.7/lib/python2.7" />
+            <root type="simple" url="file:///usr/local/Cellar/python/2.7.13/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-darwin" />
+            <root type="simple" url="file:///usr/local/Cellar/python/2.7.13/Frameworks/Python.framework/Versions/2.7/lib/python2.7/lib-tk" />
+            <root type="simple" url="file:///usr/local/Cellar/python/2.7.13/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac" />
+            <root type="simple" url="file:///usr/local/Cellar/python/2.7.13/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac/lib-scriptpackages" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/timing_test/lib/python2.7/site-packages" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/IntelliJIdea2017.2/python_stubs/-944833532" />
+            <root type="simple" url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
+            <root type="simple" url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2" />
+            <root type="simple" url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" />
+            <root type="simple" url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2" />
+            <root type="simple" url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 2.7.13 virtualenv at ~/.virtualenvs/sklearn" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.13" />
+      <homePath value="$USER_HOME$/.virtualenvs/sklearn/bin/python" />
+      <roots>
+        <annotationsPath>
+          <root type="composite" />
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/sklearn/lib/python2.7" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/sklearn/lib/python2.7/lib-dynload" />
+            <root type="simple" url="file:///usr/local/Cellar/python/2.7.13/Frameworks/Python.framework/Versions/2.7/lib/python2.7" />
+            <root type="simple" url="file:///usr/local/Cellar/python/2.7.13/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-darwin" />
+            <root type="simple" url="file:///usr/local/Cellar/python/2.7.13/Frameworks/Python.framework/Versions/2.7/lib/python2.7/lib-tk" />
+            <root type="simple" url="file:///usr/local/Cellar/python/2.7.13/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac" />
+            <root type="simple" url="file:///usr/local/Cellar/python/2.7.13/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac/lib-scriptpackages" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/sklearn/lib/python2.7/site-packages" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/IntelliJIdea2017.2/python_stubs/-4016289" />
+            <root type="simple" url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
+            <root type="simple" url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2" />
+            <root type="simple" url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" />
+            <root type="simple" url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2" />
+            <root type="simple" url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="1.8" />
+      <type value="JavaSDK" />
+      <version value="java version &quot;1.8.0_121&quot;" />
+      <homePath value="/Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home" />
+      <roots>
+        <annotationsPath>
+          <root type="composite">
+            <root type="simple" url="jar://$APPLICATION_HOME_DIR$/lib/jdkAnnotations.jar!/" />
+          </root>
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/jre/lib/charsets.jar!/" />
+            <root type="simple" url="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/jre/lib/deploy.jar!/" />
+            <root type="simple" url="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/jre/lib/ext/cldrdata.jar!/" />
+            <root type="simple" url="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/jre/lib/ext/dnsns.jar!/" />
+            <root type="simple" url="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/jre/lib/ext/jaccess.jar!/" />
+            <root type="simple" url="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/jre/lib/ext/jfxrt.jar!/" />
+            <root type="simple" url="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/jre/lib/ext/localedata.jar!/" />
+            <root type="simple" url="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/jre/lib/ext/nashorn.jar!/" />
+            <root type="simple" url="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/jre/lib/ext/sunec.jar!/" />
+            <root type="simple" url="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/jre/lib/ext/sunjce_provider.jar!/" />
+            <root type="simple" url="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/jre/lib/ext/sunpkcs11.jar!/" />
+            <root type="simple" url="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/jre/lib/ext/zipfs.jar!/" />
+            <root type="simple" url="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/jre/lib/javaws.jar!/" />
+            <root type="simple" url="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/jre/lib/jce.jar!/" />
+            <root type="simple" url="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/jre/lib/jfr.jar!/" />
+            <root type="simple" url="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/jre/lib/jfxswt.jar!/" />
+            <root type="simple" url="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/jre/lib/jsse.jar!/" />
+            <root type="simple" url="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/jre/lib/management-agent.jar!/" />
+            <root type="simple" url="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/jre/lib/plugin.jar!/" />
+            <root type="simple" url="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/jre/lib/resources.jar!/" />
+            <root type="simple" url="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/jre/lib/rt.jar!/" />
+            <root type="simple" url="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/lib/ant-javafx.jar!/" />
+            <root type="simple" url="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/lib/dt.jar!/" />
+            <root type="simple" url="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/lib/javafx-mx.jar!/" />
+            <root type="simple" url="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/lib/jconsole.jar!/" />
+            <root type="simple" url="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/lib/packager.jar!/" />
+            <root type="simple" url="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/lib/sa-jdi.jar!/" />
+            <root type="simple" url="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/lib/tools.jar!/" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
+        <sourcePath>
+          <root type="composite">
+            <root type="simple" url="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/src.zip!/" />
+            <root type="simple" url="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/javafx-src.zip!/" />
+          </root>
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.6.0 virtualenv at ~/.virtualenvs/magnum" />
+      <type value="Python SDK" />
+      <version value="Python 3.6.0" />
+      <homePath value="$USER_HOME$/.virtualenvs/magnum/bin/python" />
+      <roots>
+        <annotationsPath>
+          <root type="composite" />
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/magnum/lib/python3.6" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/magnum/lib/python3.6/lib-dynload" />
+            <root type="simple" url="file:///usr/local/Cellar/python3/3.6.0/Frameworks/Python.framework/Versions/3.6/lib/python3.6" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/magnum/lib/python3.6/site-packages" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/IntelliJIdea2017.2/python_stubs/-1904683864" />
+            <root type="simple" url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
+            <root type="simple" url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3.6" />
+            <root type="simple" url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3.5" />
+            <root type="simple" url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3.4" />
+            <root type="simple" url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3.3" />
+            <root type="simple" url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3" />
+            <root type="simple" url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" />
+            <root type="simple" url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/3" />
+            <root type="simple" url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 2.7.13 virtualenv at ~/.virtualenvs/trafficplatform" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.13" />
+      <homePath value="$USER_HOME$/.virtualenvs/trafficplatform/bin/python" />
+      <roots>
+        <annotationsPath>
+          <root type="composite" />
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/trafficplatform/lib/python2.7" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/trafficplatform/lib/python2.7/lib-dynload" />
+            <root type="simple" url="file:///usr/local/Cellar/python/2.7.13/Frameworks/Python.framework/Versions/2.7/lib/python2.7" />
+            <root type="simple" url="file:///usr/local/Cellar/python/2.7.13/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-darwin" />
+            <root type="simple" url="file:///usr/local/Cellar/python/2.7.13/Frameworks/Python.framework/Versions/2.7/lib/python2.7/lib-tk" />
+            <root type="simple" url="file:///usr/local/Cellar/python/2.7.13/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac" />
+            <root type="simple" url="file:///usr/local/Cellar/python/2.7.13/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac/lib-scriptpackages" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/trafficplatform/lib/python2.7/site-packages" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/IntelliJIdea2017.2/python_stubs/1694727771" />
+            <root type="simple" url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
+            <root type="simple" url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2" />
+            <root type="simple" url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" />
+            <root type="simple" url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2" />
+            <root type="simple" url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 2.7.13 virtualenv at ~/.virtualenvs/gen-ml" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.13" />
+      <homePath value="$USER_HOME$/.virtualenvs/gen-ml/bin/python2" />
+      <roots>
+        <annotationsPath>
+          <root type="composite" />
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/gen-ml/lib/python2.7" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/gen-ml/lib/python2.7/lib-dynload" />
+            <root type="simple" url="file:///usr/local/Cellar/python/2.7.13/Frameworks/Python.framework/Versions/2.7/lib/python2.7" />
+            <root type="simple" url="file:///usr/local/Cellar/python/2.7.13/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-darwin" />
+            <root type="simple" url="file:///usr/local/Cellar/python/2.7.13/Frameworks/Python.framework/Versions/2.7/lib/python2.7/lib-tk" />
+            <root type="simple" url="file:///usr/local/Cellar/python/2.7.13/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac" />
+            <root type="simple" url="file:///usr/local/Cellar/python/2.7.13/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac/lib-scriptpackages" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/gen-ml/lib/python2.7/site-packages" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/gen-ml/lib/python2.7/site-packages/xgboost-0.6-py2.7.egg" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/IntelliJIdea2017.2/python_stubs/1152626419" />
+            <root type="simple" url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
+            <root type="simple" url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2" />
+            <root type="simple" url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" />
+            <root type="simple" url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2" />
+            <root type="simple" url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 2.7.13 virtualenv at ~/.virtualenvs/rtx-dashboard" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.13" />
+      <homePath value="$USER_HOME$/.virtualenvs/rtx-dashboard/bin/python" />
+      <roots>
+        <annotationsPath>
+          <root type="composite" />
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/rtx-dashboard/lib/python2.7" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/rtx-dashboard/lib/python2.7/lib-dynload" />
+            <root type="simple" url="file:///usr/local/Cellar/python/2.7.13/Frameworks/Python.framework/Versions/2.7/lib/python2.7" />
+            <root type="simple" url="file:///usr/local/Cellar/python/2.7.13/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-darwin" />
+            <root type="simple" url="file:///usr/local/Cellar/python/2.7.13/Frameworks/Python.framework/Versions/2.7/lib/python2.7/lib-tk" />
+            <root type="simple" url="file:///usr/local/Cellar/python/2.7.13/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac" />
+            <root type="simple" url="file:///usr/local/Cellar/python/2.7.13/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac/lib-scriptpackages" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/rtx-dashboard/lib/python2.7/site-packages" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/IntelliJIdea2017.2/python_stubs/1294312366" />
+            <root type="simple" url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
+            <root type="simple" url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2" />
+            <root type="simple" url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" />
+            <root type="simple" url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2" />
+            <root type="simple" url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.6.2 virtualenv at ~/.virtualenvs/rlb-dp" />
+      <type value="Python SDK" />
+      <version value="Python 3.6.2" />
+      <homePath value="$USER_HOME$/.virtualenvs/rlb-dp/bin/python" />
+      <roots>
+        <annotationsPath>
+          <root type="composite" />
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/rlb-dp/lib/python3.6" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/rlb-dp/lib/python3.6/lib-dynload" />
+            <root type="simple" url="file:///usr/local/Cellar/python3/3.6.2/Frameworks/Python.framework/Versions/3.6/lib/python3.6" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/rlb-dp/lib/python3.6/site-packages" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/IntelliJIdea2017.2/python_stubs/-120131542" />
+            <root type="simple" url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
+            <root type="simple" url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3.6" />
+            <root type="simple" url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3.5" />
+            <root type="simple" url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3.4" />
+            <root type="simple" url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3.3" />
+            <root type="simple" url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3" />
+            <root type="simple" url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" />
+            <root type="simple" url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/3" />
+            <root type="simple" url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/Repos/rlb-dp" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 2.7.13 virtualenv at ~/.virtualenvs/segmatron" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.13" />
+      <homePath value="$USER_HOME$/.virtualenvs/segmatron/bin/python" />
+      <roots>
+        <annotationsPath>
+          <root type="composite" />
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/segmatron/lib/python2.7" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/segmatron/lib/python2.7/lib-dynload" />
+            <root type="simple" url="file:///usr/local/Cellar/python/2.7.13/Frameworks/Python.framework/Versions/2.7/lib/python2.7" />
+            <root type="simple" url="file:///usr/local/Cellar/python/2.7.13/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-darwin" />
+            <root type="simple" url="file:///usr/local/Cellar/python/2.7.13/Frameworks/Python.framework/Versions/2.7/lib/python2.7/lib-tk" />
+            <root type="simple" url="file:///usr/local/Cellar/python/2.7.13/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac" />
+            <root type="simple" url="file:///usr/local/Cellar/python/2.7.13/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac/lib-scriptpackages" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/segmatron/lib/python2.7/site-packages" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/IntelliJIdea2017.2/python_stubs/1991981829" />
+            <root type="simple" url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
+            <root type="simple" url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2" />
+            <root type="simple" url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" />
+            <root type="simple" url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2" />
+            <root type="simple" url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.6.2 virtualenv at /Volumes/Macintosh HD/Users/rrosenberg/.venvs3/tachis" />
+      <type value="Python SDK" />
+      <version value="Python 3.6.2" />
+      <homePath value="/Volumes/Macintosh HD/Users/rrosenberg/.venvs3/tachis/bin/python" />
+      <roots>
+        <annotationsPath>
+          <root type="composite" />
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file:///usr/local/Cellar/python3/3.6.2/Frameworks/Python.framework/Versions/3.6/lib/python3.6" />
+            <root type="simple" url="file:///usr/local/Cellar/python3/3.6.2/Frameworks/Python.framework/Versions/3.6/lib/python3.6/lib-dynload" />
+            <root type="simple" url="file://$USER_HOME$/.venvs3/tachis/lib/python3.6/site-packages" />
+            <root type="simple" url="file://$USER_HOME$/.venvs3/tachis/src/genetic-selection" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/IntelliJIdea2017.2/python_stubs/-1396426788" />
+            <root type="simple" url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
+            <root type="simple" url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3.6" />
+            <root type="simple" url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3.5" />
+            <root type="simple" url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3.4" />
+            <root type="simple" url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3.3" />
+            <root type="simple" url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3" />
+            <root type="simple" url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" />
+            <root type="simple" url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/3" />
+            <root type="simple" url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 2.7.10 virtualenv at ~/.virtualenvs/rtbarbitrage" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.10" />
+      <homePath value="$USER_HOME$/.virtualenvs/rtbarbitrage/bin/python" />
+      <roots>
+        <annotationsPath>
+          <root type="composite" />
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/rtbarbitrage/lib/python2.7" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/rtbarbitrage/lib/python2.7/lib-dynload" />
+            <root type="simple" url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7" />
+            <root type="simple" url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-darwin" />
+            <root type="simple" url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/lib-tk" />
+            <root type="simple" url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac" />
+            <root type="simple" url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac/lib-scriptpackages" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/rtbarbitrage/lib/python2.7/site-packages" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/IntelliJIdea2017.2/python_stubs/666433554" />
+            <root type="simple" url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
+            <root type="simple" url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2" />
+            <root type="simple" url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" />
+            <root type="simple" url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2" />
+            <root type="simple" url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/Repos/rtbarbitrage" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 2.7.13 virtualenv at ~/.virtualenvs/trafficplatform-etl" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.13" />
+      <homePath value="$USER_HOME$/.virtualenvs/trafficplatform-etl/bin/python" />
+      <roots>
+        <annotationsPath>
+          <root type="composite" />
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/trafficplatform-etl/lib/python2.7" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/trafficplatform-etl/lib/python2.7/lib-dynload" />
+            <root type="simple" url="file:///usr/local/Cellar/python/2.7.13/Frameworks/Python.framework/Versions/2.7/lib/python2.7" />
+            <root type="simple" url="file:///usr/local/Cellar/python/2.7.13/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-darwin" />
+            <root type="simple" url="file:///usr/local/Cellar/python/2.7.13/Frameworks/Python.framework/Versions/2.7/lib/python2.7/lib-tk" />
+            <root type="simple" url="file:///usr/local/Cellar/python/2.7.13/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac" />
+            <root type="simple" url="file:///usr/local/Cellar/python/2.7.13/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac/lib-scriptpackages" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/trafficplatform-etl/lib/python2.7/site-packages" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/IntelliJIdea2017.2/python_stubs/1843931659" />
+            <root type="simple" url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
+            <root type="simple" url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2" />
+            <root type="simple" url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" />
+            <root type="simple" url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2" />
+            <root type="simple" url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/Repos/trafficplatform-etl" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.6.2 virtualenv at ~/.virtualenvs/fbp" />
+      <type value="Python SDK" />
+      <version value="Python 3.6.2" />
+      <homePath value="$USER_HOME$/.virtualenvs/fbp/bin/python" />
+      <roots>
+        <annotationsPath>
+          <root type="composite" />
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/fbp/lib/python3.6" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/fbp/lib/python3.6/lib-dynload" />
+            <root type="simple" url="file:///usr/local/Cellar/python3/3.6.2/Frameworks/Python.framework/Versions/3.6/lib/python3.6" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/fbp/lib/python3.6/site-packages" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/IntelliJIdea2017.2/python_stubs/1393500695" />
+            <root type="simple" url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
+            <root type="simple" url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3.6" />
+            <root type="simple" url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3.5" />
+            <root type="simple" url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3.4" />
+            <root type="simple" url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3.3" />
+            <root type="simple" url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3" />
+            <root type="simple" url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" />
+            <root type="simple" url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/3" />
+            <root type="simple" url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/Repos/feed-bid-predictor" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.5.3 virtualenv at ~/.virtualenvs/usagi" />
+      <type value="Python SDK" />
+      <version value="Python 3.5.3" />
+      <homePath value="$USER_HOME$/.virtualenvs/usagi/bin/python" />
+      <roots>
+        <annotationsPath>
+          <root type="composite" />
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/usagi/lib/python3.5" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/usagi/lib/python3.5/plat-darwin" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/usagi/lib/python3.5/lib-dynload" />
+            <root type="simple" url="file://$USER_HOME$/.pyenv/versions/3.5.3/lib/python3.5" />
+            <root type="simple" url="file://$USER_HOME$/.pyenv/versions/3.5.3/lib/python3.5/plat-darwin" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/usagi/lib/python3.5/site-packages" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/IntelliJIdea2017.2/python_stubs/1770090758" />
+            <root type="simple" url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
+            <root type="simple" url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3.5" />
+            <root type="simple" url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3.4" />
+            <root type="simple" url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3.3" />
+            <root type="simple" url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3" />
+            <root type="simple" url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" />
+            <root type="simple" url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/3" />
+            <root type="simple" url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/Repos/usagi" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 2.7.13 virtualenv at ~/.virtualenvs/audiencedrive-feed-dashboard" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.13" />
+      <homePath value="$USER_HOME$/.virtualenvs/audiencedrive-feed-dashboard/bin/python" />
+      <roots>
+        <annotationsPath>
+          <root type="composite" />
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/audiencedrive-feed-dashboard/lib/python2.7" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/audiencedrive-feed-dashboard/lib/python2.7/lib-dynload" />
+            <root type="simple" url="file:///usr/local/Cellar/python/2.7.13/Frameworks/Python.framework/Versions/2.7/lib/python2.7" />
+            <root type="simple" url="file:///usr/local/Cellar/python/2.7.13/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-darwin" />
+            <root type="simple" url="file:///usr/local/Cellar/python/2.7.13/Frameworks/Python.framework/Versions/2.7/lib/python2.7/lib-tk" />
+            <root type="simple" url="file:///usr/local/Cellar/python/2.7.13/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac" />
+            <root type="simple" url="file:///usr/local/Cellar/python/2.7.13/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac/lib-scriptpackages" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/audiencedrive-feed-dashboard/lib/python2.7/site-packages" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/IntelliJIdea2017.2/python_stubs/-1814464881" />
+            <root type="simple" url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
+            <root type="simple" url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2" />
+            <root type="simple" url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" />
+            <root type="simple" url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2" />
+            <root type="simple" url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/Repos/audiencedrive-feed-dashboard" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 2.7.12 virtualenv at ~/.virtualenvs/tachis27" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.12" />
+      <homePath value="$USER_HOME$/.virtualenvs/tachis27/bin/python" />
+      <roots>
+        <annotationsPath>
+          <root type="composite" />
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/tachis27/lib/python2.7" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/tachis27/lib/python2.7/lib-dynload" />
+            <root type="simple" url="file://$USER_HOME$/.pyenv/versions/2.7.12/lib/python2.7" />
+            <root type="simple" url="file://$USER_HOME$/.pyenv/versions/2.7.12/lib/python2.7/plat-darwin" />
+            <root type="simple" url="file://$USER_HOME$/.pyenv/versions/2.7.12/lib/python2.7/lib-tk" />
+            <root type="simple" url="file://$USER_HOME$/.pyenv/versions/2.7.12/lib/python2.7/plat-mac" />
+            <root type="simple" url="file://$USER_HOME$/.pyenv/versions/2.7.12/lib/python2.7/plat-mac/lib-scriptpackages" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/tachis27/lib/python2.7/site-packages" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/tachis27/src/genetic-selection" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/IntelliJIdea2017.2/python_stubs/-992567366" />
+            <root type="simple" url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
+            <root type="simple" url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2" />
+            <root type="simple" url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" />
+            <root type="simple" url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2" />
+            <root type="simple" url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/Repos/tachis" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.5.3 virtualenv at ~/.virtualenvs/kinner_opt" />
+      <type value="Python SDK" />
+      <version value="Python 3.5.3" />
+      <homePath value="$USER_HOME$/.virtualenvs/kinner_opt/bin/python" />
+      <roots>
+        <annotationsPath>
+          <root type="composite" />
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/kinner_opt/lib/python3.5" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/kinner_opt/lib/python3.5/plat-darwin" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/kinner_opt/lib/python3.5/lib-dynload" />
+            <root type="simple" url="file://$USER_HOME$/.pyenv/versions/3.5.3/lib/python3.5" />
+            <root type="simple" url="file://$USER_HOME$/.pyenv/versions/3.5.3/lib/python3.5/plat-darwin" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/kinner_opt/lib/python3.5/site-packages" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/kinner_opt/src/tachis" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/IntelliJIdea2017.2/python_stubs/-1731842756" />
+            <root type="simple" url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
+            <root type="simple" url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3.5" />
+            <root type="simple" url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3.4" />
+            <root type="simple" url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3.3" />
+            <root type="simple" url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3" />
+            <root type="simple" url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" />
+            <root type="simple" url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/3" />
+            <root type="simple" url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/Repos/kinner_opt" />
+    </jdk>
+  </component>
+</application>

@@ -1,0 +1,27 @@
+<application>
+  <component name="PyTestFrameworkService">
+    <option name="SDK_TO_PYTEST">
+      <map>
+        <entry key="$USER_HOME$/.virtualenvs/bluesteel/bin/python" value="false" />
+        <entry key="$USER_HOME$/.virtualenvs/gen-ml/bin/python2" value="false" />
+        <entry key="$USER_HOME$/.virtualenvs/magnum/bin/python" value="false" />
+        <entry key="$USER_HOME$/.virtualenvs/rlb-dp/bin/python" value="false" />
+        <entry key="$USER_HOME$/.virtualenvs/rtbarbitrage/bin/python" value="false" />
+        <entry key="$USER_HOME$/.virtualenvs/sklearn/bin/python" value="false" />
+        <entry key="$USER_HOME$/.virtualenvs/tachis27/bin/python" value="false" />
+        <entry key="$USER_HOME$/.virtualenvs/timing_test/bin/python" value="false" />
+        <entry key="/Volumes/Macintosh HD/Users/rrosenberg/.venvs3/tachis/bin/python" value="false" />
+      </map>
+    </option>
+    <option name="SDK_TO_NOSETEST">
+      <map>
+        <entry key="$USER_HOME$/.virtualenvs/audiencedrive-feed-dashboard/bin/python" value="true" />
+        <entry key="$USER_HOME$/.virtualenvs/bluesteel/bin/python" value="true" />
+        <entry key="$USER_HOME$/.virtualenvs/kinner_opt/bin/python" value="true" />
+        <entry key="$USER_HOME$/.virtualenvs/rtx-dashboard/bin/python" value="true" />
+        <entry key="$USER_HOME$/.virtualenvs/timing_test/bin/python" value="true" />
+        <entry key="$USER_HOME$/.virtualenvs/trafficplatform/bin/python" value="true" />
+      </map>
+    </option>
+  </component>
+</application>
