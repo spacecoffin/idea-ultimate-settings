@@ -16,6 +16,41 @@
       </SOURCES>
       <jarDirectory url="jar://$USER_HOME$/spark-2.2.0-bin-hadoop2.7/python/lib/pyspark.zip!/" recursive="false" type="SOURCES" />
     </library>
+    <library name="Python 2.7.12 virtualenv at ~/.virtualenvs/wbp interpreter library">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.virtualenvs/wbp/lib/python2.7" />
+        <root url="file://$USER_HOME$/.virtualenvs/wbp/lib/python2.7/lib-dynload" />
+        <root url="file://$USER_HOME$/.pyenv/versions/2.7.12/lib/python2.7" />
+        <root url="file://$USER_HOME$/.pyenv/versions/2.7.12/lib/python2.7/plat-darwin" />
+        <root url="file://$USER_HOME$/.pyenv/versions/2.7.12/lib/python2.7/lib-tk" />
+        <root url="file://$USER_HOME$/.pyenv/versions/2.7.12/lib/python2.7/plat-mac" />
+        <root url="file://$USER_HOME$/.pyenv/versions/2.7.12/lib/python2.7/plat-mac/lib-scriptpackages" />
+        <root url="file://$USER_HOME$/.virtualenvs/wbp/lib/python2.7/site-packages" />
+        <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea2017.2/python_stubs/1388938662" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.virtualenvs/wbp/lib/python2.7" />
+        <root url="file://$USER_HOME$/.virtualenvs/wbp/lib/python2.7/lib-dynload" />
+        <root url="file://$USER_HOME$/.pyenv/versions/2.7.12/lib/python2.7" />
+        <root url="file://$USER_HOME$/.pyenv/versions/2.7.12/lib/python2.7/plat-darwin" />
+        <root url="file://$USER_HOME$/.pyenv/versions/2.7.12/lib/python2.7/lib-tk" />
+        <root url="file://$USER_HOME$/.pyenv/versions/2.7.12/lib/python2.7/plat-mac" />
+        <root url="file://$USER_HOME$/.pyenv/versions/2.7.12/lib/python2.7/plat-mac/lib-scriptpackages" />
+        <root url="file://$USER_HOME$/.virtualenvs/wbp/lib/python2.7/site-packages" />
+        <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea2017.2/python_stubs/1388938662" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" />
+      </SOURCES>
+    </library>
     <library name="Python 3.6.3 virtualenv at ~/.virtualenvs/kinner_opt interpreter library">
       <CLASSES>
         <root url="file://$USER_HOME$/.virtualenvs/kinner_opt/lib/python3.6" />
