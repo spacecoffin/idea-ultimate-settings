@@ -162,8 +162,12 @@
           <option name="url" value="git@github.com:volker48/touchstone.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@bitbucket.org:50onred/trafficplatform-popup-java-daemon.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/go/src/github.com/volker48" />
+    <option name="cloneParentDir" value="$USER_HOME$/Repos/IdeaProjects" />
   </component>
 </application>
