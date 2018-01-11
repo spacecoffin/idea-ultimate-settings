@@ -1,20 +1,12 @@
 <application>
   <component name="libraryTable">
-    <library name="py4j-0.10.4-src">
-      <CLASSES />
-      <JAVADOC />
-      <SOURCES>
-        <root url="jar://$USER_HOME$/spark-2.2.0-bin-hadoop2.7/python/lib/py4j-0.10.4-src.zip!/" />
-      </SOURCES>
-      <jarDirectory url="jar://$USER_HOME$/spark-2.2.0-bin-hadoop2.7/python/lib/py4j-0.10.4-src.zip!/" recursive="false" type="SOURCES" />
-    </library>
     <library name="pyspark">
       <CLASSES />
       <JAVADOC />
       <SOURCES>
         <root url="jar://$USER_HOME$/spark-2.2.0-bin-hadoop2.7/python/lib/pyspark.zip!/" />
+        <root url="jar://$USER_HOME$/spark-2.2.0-bin-hadoop2.7/python/lib/py4j-0.10.4-src.zip!/" />
       </SOURCES>
-      <jarDirectory url="jar://$USER_HOME$/spark-2.2.0-bin-hadoop2.7/python/lib/pyspark.zip!/" recursive="false" type="SOURCES" />
     </library>
   </component>
 </application>
