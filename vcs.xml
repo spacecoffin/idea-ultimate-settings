@@ -206,4 +206,7 @@
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/Repos/IdeaProjects" />
   </component>
+  <component name="Vcs.Log.App.Settings">
+    <option name="MIGRATED" value="true" />
+  </component>
 </application>
