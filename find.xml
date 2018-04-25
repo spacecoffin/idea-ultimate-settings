@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '.../sigmoidal_RL_0823.py [valkyrie]'" />
-    <option name="defaultScopeName" value="File '.../sigmoidal_RL_0823.py [valkyrie]'" />
-    <option name="SEARCH_SCOPE" value="File '.../sigmoidal_RL_0823.py [valkyrie]'" />
+    <option name="customScope" value="Project and Libraries" />
+    <option name="defaultScopeName" value="Project and Libraries" />
+    <option name="SEARCH_SCOPE" value="Project and Libraries" />
   </component>
 </application>
