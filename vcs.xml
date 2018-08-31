@@ -222,8 +222,12 @@
           <option name="url" value="git@bitbucket.org:50onred/adult-domain-detector.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:rk2900/bidding-machine.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/Repos/IdeaProjects" />
+    <option name="cloneParentDir" value="$USER_HOME$/Repos/Research" />
   </component>
 </application>
