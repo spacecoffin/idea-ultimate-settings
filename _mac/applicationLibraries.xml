@@ -1,11 +1,53 @@
 <application>
   <component name="libraryTable">
+    <library name="Bundled Protobuf Distribution">
+      <CLASSES />
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://$APPLICATION_PLUGINS_DIR$/protobuf-jetbrains-plugin/lib/protobuf-java-3.6.1-sources.jar!/" />
+      </SOURCES>
+    </library>
     <library name="pyspark">
       <CLASSES />
       <JAVADOC />
       <SOURCES>
         <root url="jar://$USER_HOME$/spark-2.2.0-bin-hadoop2.7/python/lib/pyspark.zip!/" />
         <root url="jar://$USER_HOME$/spark-2.2.0-bin-hadoop2.7/python/lib/py4j-0.10.4-src.zip!/" />
+      </SOURCES>
+    </library>
+    <library name="Python 2.7 (bidding-machine) interpreter library">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.virtualenvs/bidding-machine/lib/python2.7" />
+        <root url="file://$USER_HOME$/.virtualenvs/bidding-machine/lib/python2.7/lib-dynload" />
+        <root url="file://$USER_HOME$/.pyenv/versions/2.7.15/lib/python2.7" />
+        <root url="file://$USER_HOME$/.pyenv/versions/2.7.15/lib/python2.7/plat-darwin" />
+        <root url="file://$USER_HOME$/.pyenv/versions/2.7.15/lib/python2.7/lib-tk" />
+        <root url="file://$USER_HOME$/.pyenv/versions/2.7.15/lib/python2.7/plat-mac" />
+        <root url="file://$USER_HOME$/.pyenv/versions/2.7.15/lib/python2.7/plat-mac/lib-scriptpackages" />
+        <root url="file://$USER_HOME$/.virtualenvs/bidding-machine/lib/python2.7/site-packages" />
+        <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea2018.1/python_stubs/2072286981" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.virtualenvs/bidding-machine/lib/python2.7" />
+        <root url="file://$USER_HOME$/.virtualenvs/bidding-machine/lib/python2.7/lib-dynload" />
+        <root url="file://$USER_HOME$/.pyenv/versions/2.7.15/lib/python2.7" />
+        <root url="file://$USER_HOME$/.pyenv/versions/2.7.15/lib/python2.7/plat-darwin" />
+        <root url="file://$USER_HOME$/.pyenv/versions/2.7.15/lib/python2.7/lib-tk" />
+        <root url="file://$USER_HOME$/.pyenv/versions/2.7.15/lib/python2.7/plat-mac" />
+        <root url="file://$USER_HOME$/.pyenv/versions/2.7.15/lib/python2.7/plat-mac/lib-scriptpackages" />
+        <root url="file://$USER_HOME$/.virtualenvs/bidding-machine/lib/python2.7/site-packages" />
+        <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea2018.1/python_stubs/2072286981" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" />
       </SOURCES>
     </library>
     <library name="Python 2.7 (spark-dev) interpreter library">
