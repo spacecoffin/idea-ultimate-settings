@@ -230,8 +230,12 @@
           <option name="url" value="git@github.com:wnzhang/make-ipinyou-data.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@bitbucket.org:50onred/honey-badger.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/Repos/Research" />
+    <option name="cloneParentDir" value="$USER_HOME$/Repos/IdeaProjects" />
   </component>
 </application>
