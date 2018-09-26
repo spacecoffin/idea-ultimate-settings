@@ -15,6 +15,35 @@
         <root url="jar://$USER_HOME$/spark-2.2.0-bin-hadoop2.7/python/lib/py4j-0.10.4-src.zip!/" />
       </SOURCES>
     </library>
+    <library name="Python 3.6 (optcat) interpreter library">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.virtualenvs/optcat/lib/python3.6" />
+        <root url="file://$USER_HOME$/.virtualenvs/optcat/lib/python3.6/lib-dynload" />
+        <root url="file://$USER_HOME$/.pyenv/versions/3.6.5/lib/python3.6" />
+        <root url="file://$USER_HOME$/.virtualenvs/optcat/lib/python3.6/site-packages" />
+        <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea2018.2/python_stubs/-718685565" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3.4" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.virtualenvs/optcat/lib/python3.6" />
+        <root url="file://$USER_HOME$/.virtualenvs/optcat/lib/python3.6/lib-dynload" />
+        <root url="file://$USER_HOME$/.pyenv/versions/3.6.5/lib/python3.6" />
+        <root url="file://$USER_HOME$/.virtualenvs/optcat/lib/python3.6/site-packages" />
+        <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea2018.2/python_stubs/-718685565" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3.4" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" />
+      </SOURCES>
+    </library>
     <library name="scala-sdk-2.11.8" type="Scala">
       <properties>
         <compiler-classpath>
