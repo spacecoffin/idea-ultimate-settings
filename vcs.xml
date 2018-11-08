@@ -258,8 +258,12 @@
           <option name="url" value="git@bitbucket.org:50onred/trafficplatform-pixel.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@bitbucket.org:50onred/ds-assessment.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/go/src/bitbucket.org/50onred" />
+    <option name="cloneParentDir" value="$USER_HOME$/Repos/IdeaProjects" />
   </component>
 </application>
