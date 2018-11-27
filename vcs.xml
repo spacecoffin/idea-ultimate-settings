@@ -270,8 +270,12 @@
           <option name="url" value="git@bitbucket.org:50onred/6mc.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:spacecoffin/rs-py-xbg-docker.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/Repos/IdeaProjects" />
+    <option name="cloneParentDir" value="$USER_HOME$/Repos/GitHub" />
   </component>
 </application>
