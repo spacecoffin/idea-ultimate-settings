@@ -292,6 +292,6 @@
         </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/Repos/IdeaProjects" />
+    <option name="cloneParentDir" value="$USER_HOME$/go/src/bitbucket.org/50onred" />
   </component>
 </application>
