@@ -294,8 +294,12 @@
           <option name="url" value="git@github.com:spacecoffin/tachikoma.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@bitbucket.org:50onred/go-push.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/Repos/GitHub" />
+    <option name="cloneParentDir" value="$USER_HOME$/go/src/bitbucket.org/50onred" />
   </component>
 </application>
