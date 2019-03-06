@@ -89,7 +89,6 @@
       <CLASSES>
         <root url="file://$USER_HOME$/.virtualenvs/ds36/lib/python3.6" />
         <root url="file://$USER_HOME$/.virtualenvs/ds36/lib/python3.6/lib-dynload" />
-        <root url="file:///usr/local/Cellar/python3/3.6.3/Frameworks/Python.framework/Versions/3.6/lib/python3.6" />
         <root url="file://$USER_HOME$/.virtualenvs/ds36/lib/python3.6/site-packages" />
         <root url="file://$USER_HOME$/.virtualenvs/ds36/lib/python3.6/site-packages/tldextract-2.2.0-py3.6.egg" />
         <root url="file://$USER_HOME$/.virtualenvs/ds36/lib/python3.6/site-packages/xlearn-0.2.0-py3.6.egg" />
@@ -106,7 +105,6 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.virtualenvs/ds36/lib/python3.6" />
         <root url="file://$USER_HOME$/.virtualenvs/ds36/lib/python3.6/lib-dynload" />
-        <root url="file:///usr/local/Cellar/python3/3.6.3/Frameworks/Python.framework/Versions/3.6/lib/python3.6" />
         <root url="file://$USER_HOME$/.virtualenvs/ds36/lib/python3.6/site-packages" />
         <root url="file://$USER_HOME$/.virtualenvs/ds36/lib/python3.6/site-packages/tldextract-2.2.0-py3.6.egg" />
         <root url="file://$USER_HOME$/.virtualenvs/ds36/lib/python3.6/site-packages/xlearn-0.2.0-py3.6.egg" />
