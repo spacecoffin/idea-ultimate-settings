@@ -302,6 +302,10 @@
           <option name="url" value="git@bitbucket.org:50onred/sprintopt.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@bitbucket.org:50onred/ango.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/Repos/IdeaProjects" />
