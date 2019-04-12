@@ -14,6 +14,14 @@
           <IdeaActionID>GoFmtFileAction</IdeaActionID>
           <ShortCut>'⌥⇧⌘F'</ShortCut>
           <Description>Go fmt file</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Go fmt project">
+        <Item>
+          <IdeaActionID>GoFmtProjectAction</IdeaActionID>
+          <ShortCut>'⌥⇧⌘P'</ShortCut>
+          <Description>Go fmt project</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -38,7 +46,7 @@
           <IdeaActionID>Vcs.Push</IdeaActionID>
           <ShortCut>'⇧⌘K'</ShortCut>
           <Description>Push...</Description>
-          <Count>9</Count>
+          <Count>10</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rename...">
