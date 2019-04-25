@@ -30,7 +30,7 @@
           <IdeaActionID>GoFmtProjectAction</IdeaActionID>
           <ShortCut>'⌥⇧⌘P'</ShortCut>
           <Description>Go fmt project</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="GoTo">
@@ -62,7 +62,7 @@
           <IdeaActionID>Vcs.Push</IdeaActionID>
           <ShortCut>'⇧⌘K'</ShortCut>
           <Description>Push...</Description>
-          <Count>24</Count>
+          <Count>25</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rename...">
