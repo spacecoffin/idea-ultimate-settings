@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'go-wabbit'" />
-    <option name="defaultScopeName" value="Project 'go-wabbit'" />
-    <option name="SEARCH_SCOPE" value="Project 'go-wabbit'" />
+    <option name="customScope" value="File '.../tachis/ab/ab_test.py [tachis]'" />
+    <option name="defaultScopeName" value="File '.../tachis/ab/ab_test.py [tachis]'" />
+    <option name="SEARCH_SCOPE" value="File '.../tachis/ab/ab_test.py [tachis]'" />
   </component>
 </application>
