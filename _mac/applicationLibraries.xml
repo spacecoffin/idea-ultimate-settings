@@ -87,6 +87,41 @@
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" />
       </SOURCES>
     </library>
+    <library name="Python 2.7 (trafficplatform-dashboard) interpreter library">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.virtualenvs/trafficplatform-dashboard/lib/python2.7" />
+        <root url="file://$USER_HOME$/.virtualenvs/trafficplatform-dashboard/lib/python2.7/lib-dynload" />
+        <root url="file://$USER_HOME$/.pyenv/versions/2.7.15/lib/python2.7" />
+        <root url="file://$USER_HOME$/.pyenv/versions/2.7.15/lib/python2.7/plat-darwin" />
+        <root url="file://$USER_HOME$/.pyenv/versions/2.7.15/lib/python2.7/lib-tk" />
+        <root url="file://$USER_HOME$/.pyenv/versions/2.7.15/lib/python2.7/plat-mac" />
+        <root url="file://$USER_HOME$/.pyenv/versions/2.7.15/lib/python2.7/plat-mac/lib-scriptpackages" />
+        <root url="file://$USER_HOME$/.virtualenvs/trafficplatform-dashboard/lib/python2.7/site-packages" />
+        <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea2019.1/python_stubs/712441863" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.virtualenvs/trafficplatform-dashboard/lib/python2.7" />
+        <root url="file://$USER_HOME$/.virtualenvs/trafficplatform-dashboard/lib/python2.7/lib-dynload" />
+        <root url="file://$USER_HOME$/.pyenv/versions/2.7.15/lib/python2.7" />
+        <root url="file://$USER_HOME$/.pyenv/versions/2.7.15/lib/python2.7/plat-darwin" />
+        <root url="file://$USER_HOME$/.pyenv/versions/2.7.15/lib/python2.7/lib-tk" />
+        <root url="file://$USER_HOME$/.pyenv/versions/2.7.15/lib/python2.7/plat-mac" />
+        <root url="file://$USER_HOME$/.pyenv/versions/2.7.15/lib/python2.7/plat-mac/lib-scriptpackages" />
+        <root url="file://$USER_HOME$/.virtualenvs/trafficplatform-dashboard/lib/python2.7/site-packages" />
+        <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea2019.1/python_stubs/712441863" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" />
+      </SOURCES>
+    </library>
     <library name="Python 3.5 (fifty-proto) interpreter library">
       <CLASSES>
         <root url="file://$USER_HOME$/.virtualenvs/fifty-proto/lib/python3.5" />
