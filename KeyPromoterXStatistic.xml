@@ -78,7 +78,7 @@
           <IdeaActionID>GoFmtFileAction</IdeaActionID>
           <ShortCut>'⌥⇧⌘F'</ShortCut>
           <Description>Go fmt file</Description>
-          <Count>3</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Go fmt project">
@@ -239,6 +239,14 @@
           <ShortCut>'⌃R'</ShortCut>
           <Description>Run 'Unittests in tests'</Description>
           <Count>24</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'exoctet_test.go'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'exoctet_test.go'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Scratch File">
