@@ -11,11 +11,11 @@
       <CLASSES />
       <JAVADOC />
       <SOURCES>
-        <root url="jar://$USER_HOME$/spark-2.4.1-bin-hadoop2.7/python/lib/py4j-0.10.7-src.zip!/" />
-        <root url="jar://$USER_HOME$/spark-2.4.1-bin-hadoop2.7/python/lib/pyspark.zip!/" />
+        <root url="jar://$USER_HOME$/spark-2.4.3-bin-hadoop2.7/python/lib/py4j-0.10.7-src.zip!/" />
+        <root url="jar://$USER_HOME$/spark-2.4.3-bin-hadoop2.7/python/lib/pyspark.zip!/" />
       </SOURCES>
-      <jarDirectory url="jar://$USER_HOME$/spark-2.4.1-bin-hadoop2.7/python/lib/py4j-0.10.7-src.zip!/" recursive="false" type="SOURCES" />
-      <jarDirectory url="jar://$USER_HOME$/spark-2.4.1-bin-hadoop2.7/python/lib/pyspark.zip!/" recursive="false" type="SOURCES" />
+      <jarDirectory url="jar://$USER_HOME$/spark-2.4.3-bin-hadoop2.7/python/lib/py4j-0.10.7-src.zip!/" recursive="false" type="SOURCES" />
+      <jarDirectory url="jar://$USER_HOME$/spark-2.4.3-bin-hadoop2.7/python/lib/pyspark.zip!/" recursive="false" type="SOURCES" />
     </library>
     <library name="Python 2.7 (domanify) interpreter library">
       <CLASSES>
