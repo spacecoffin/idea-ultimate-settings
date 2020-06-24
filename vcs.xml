@@ -374,6 +374,10 @@
           <option name="url" value="git@github.com:spotify/featran.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:databrickslabs/automl-toolkit.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/Repos/GitHub" />
