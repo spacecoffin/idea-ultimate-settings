@@ -1,1 +1,12 @@
-<code_scheme name="Default" />
+<code_scheme name="Default" version="173">
+  <ScalaCodeStyleSettings>
+    <option name="SCALAFMT_REFORMAT_ON_FILES_SAVE" value="true" />
+    <option name="FORMATTER" value="1" />
+  </ScalaCodeStyleSettings>
+  <codeStyleSettings language="JAVA">
+    <indentOptions>
+      <option name="USE_TAB_CHARACTER" value="true" />
+      <option name="SMART_TABS" value="true" />
+    </indentOptions>
+  </codeStyleSettings>
+</code_scheme>

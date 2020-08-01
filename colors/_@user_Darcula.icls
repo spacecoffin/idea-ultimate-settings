@@ -1,0 +1,26 @@
+<scheme name="_@user_Darcula" version="142" parent_scheme="Darcula">
+  <metaInfo>
+    <property name="created">2019-04-30T22:08:01</property>
+    <property name="ide">idea</property>
+    <property name="ideVersion">2019.1.1.0.0</property>
+    <property name="modified">2020-04-13T16:50:49</property>
+    <property name="originalScheme">Darcula</property>
+  </metaInfo>
+  <colors>
+    <option name="FILESTATUS_COPIED" value="a9dc76" />
+    <option name="FILESTATUS_HIJACKED" value="" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="808080" />
+    <option name="FILESTATUS_IGNORE.PROJECT_VIEW.IGNORED" value="808080" />
+    <option name="FILESTATUS_OBSOLETE" value="" />
+    <option name="FILESTATUS_SUPPRESSED" value="" />
+    <option name="FILESTATUS_SWITCHED" value="" />
+  </colors>
+  <attributes>
+    <option name="DEFAULT_BRACES">
+      <value />
+    </option>
+    <option name="DEFAULT_PARENTHS">
+      <value />
+    </option>
+  </attributes>
+</scheme>
