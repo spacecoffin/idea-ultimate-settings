@@ -1762,6 +1762,11 @@
                       <FeaturePluginData displayName="Docker" pluginName="IDEA CORE" pluginId="com.intellij" />
                     </value>
                   </entry>
+                  <entry key="docs">
+                    <value>
+                      <FeaturePluginData displayName="Python docs" pluginName="Pythonid" pluginId="Pythonid" />
+                    </value>
+                  </entry>
                   <entry key="tests">
                     <value>
                       <FeaturePluginData displayName="Python tests" pluginName="Python" pluginId="Pythonid" />
