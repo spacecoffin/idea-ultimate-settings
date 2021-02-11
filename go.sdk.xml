@@ -4,6 +4,7 @@
       <set>
         <option value="file://" />
         <option value="file://$USER_HOME$/go/go1.13.14" />
+        <option value="file://$USER_HOME$/go/go1.13.15" />
         <option value="file:///usr/local/Cellar/go/1.15.2/libexec" />
         <option value="file:///usr/local/Cellar/go/1.15.6/libexec" />
         <option value="file:///usr/local/opt/go/libexec" />
