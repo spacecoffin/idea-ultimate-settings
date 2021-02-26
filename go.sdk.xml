@@ -2,6 +2,7 @@
   <component name="GoSdkList">
     <sdk-url>
       <set>
+        <option value="" />
         <option value="file://" />
         <option value="file://$USER_HOME$/go/go1.13.14" />
         <option value="file://$USER_HOME$/go/go1.13.15" />
